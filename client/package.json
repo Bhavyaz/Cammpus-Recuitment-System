@@ -3,8 +3,8 @@
   "version": "2.1.0",
   "private": true,
   "author": {
-    "name": "Safdar Jamal",
-    "url": "https://safdarjamal.github.io"
+    "name": "Bhavya Zaveri",
+    "url": "https://github.com/Bhavyaz"
   },
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
