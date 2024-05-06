@@ -6,8 +6,8 @@
     "start": "nodemon src/index.js"
   },
   "author": {
-    "name": "Safdar Jamal",
-    "url": "https://safdarjamal.github.io"
+    "name": "Bhavya Zaveri",
+    "url": "https://github.com/Bhavyaz"
   },
   "dependencies": {
     "bcryptjs": "^2.4.3",
