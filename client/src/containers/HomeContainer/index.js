@@ -15,6 +15,7 @@ class HomeContainer extends Component {
         {user.role === ROLES.ADMIN && <AdminContainer />}
         {user.role === ROLES.COMPANY && <CompanyContainer />}
         {user.role === ROLES.STUDENT && <StudentContainer />}
+        
       </>
     );
   }

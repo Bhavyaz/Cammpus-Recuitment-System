@@ -23,5 +23,8 @@
   "homepage": "https://github.com/SafdarJamal/campus-recruitment-system#readme",
   "devDependencies": {
     "concurrently": "^8.2.0"
+  },
+  "dependencies": {
+    "mongoose": "^8.3.3"
   }
 }

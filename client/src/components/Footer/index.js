@@ -13,11 +13,11 @@ const Footer = () => {
         <Navbar.Text>
           © 2020-2023{' '}
           <a
-            href="https://safdarjamal.github.io"
+           
             target="_blank"
             rel="noopener noreferrer"
           >
-            Safdar Jamal
+            Bhavya Zaveri
           </a>
         </Navbar.Text>
       </Navbar>
