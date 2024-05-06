@@ -16,11 +16,8 @@
     "name": "Safdar Jamal",
     "url": "https://safdarjamal.github.io"
   },
-  "license": "Apache-2.0",
-  "bugs": {
-    "url": "https://github.com/SafdarJamal/campus-recruitment-system/issues"
-  },
-  "homepage": "https://github.com/SafdarJamal/campus-recruitment-system#readme",
+
+
   "devDependencies": {
     "concurrently": "^8.2.0"
   },
