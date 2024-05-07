@@ -7,8 +7,8 @@ A recruiting software built with [React](https://reactjs.org)/[Redux](https://re
 To get a local copy of the code, clone it using git:
 
 ```
-git clone https://github.com/SafdarJamal/campus-recruitment-system.git
-cd campus-recruitment-system
+https://github.com/Bhavyaz/Cammpus-Recuitment-System.git
+cd 'Cammpus-Recuitment-System.git'
 ```
 
 Install dependencies:
